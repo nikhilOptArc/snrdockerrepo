@@ -61,7 +61,7 @@ localStorage.setItem('persistname',userObject.given_name)
     <div className="app_register">
       <div className="app_register_form">
         <div className="app_register_form2">
-          <h1>Sing In with docker CICD changes </h1>
+          <h1>Sing In</h1>
 
           <FormControl>
             <form>
